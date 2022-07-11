@@ -36,3 +36,9 @@ input {
 img {
 	max-width: 300px;
 }
+
+.btn {
+	width: 275px;
+	height: 40px;
+	background-color: yellow;
+}
